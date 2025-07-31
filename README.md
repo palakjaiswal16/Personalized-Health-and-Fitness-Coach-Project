@@ -57,10 +57,3 @@ Responses are dynamically generated and displayed to the user, along with intera
     <li>Python: Backend language for the application.</li>
 </ul>
 
-## Contributions
-
-Feel free to fork this repository and make your own contributions! You can submit issues and pull requests to help improve the project.
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
